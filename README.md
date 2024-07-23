@@ -68,19 +68,6 @@
 <hr>
 
 
-
-<hr>
-
-<div align="center">
-  <h2>🌟 Starred Repositories</h2>
-  <ul style="list-style-type:none; padding: 0;">
-    <li><a href="link">Repository Name</a>: A brief description of the repository.</li>
-    <li><a href="link">Another Repository</a>: Another brief description.</li>
-  </ul>
-</div>
-
-<hr>
-
 <div align="center">
   <h2>⚡ Fun Facts</h2>
   <ul style="list-style-type:none; padding: 0;">
