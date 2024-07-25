@@ -1,4 +1,4 @@
-![banerr](https://github.com/user-attachments/assets/2c83aeeb-ef1e-418f-b221-8b224cbce683)
+![bannner](https://github.com/user-attachments/assets/a1757db6-69f0-467f-867e-0963fdda07a8)
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
