@@ -2,15 +2,14 @@
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
-<p align="center">Hi there, I'm Febryan Barahama! I'm a passionate web developer and soon-to-be graduate with a focus on creating efficient and user-friendly web-based systems. Here’s a bit about me and my work:</p>
+<p align="center">Hi there, I'm Febryan Barahama! I'm a freelance web developer living in Sangihe Island. I work in the IT field, specifically focusing on web-based system development. Here’s a bit about me and my work:</p>
 
 <hr>
 
 <h2 align="center">🧑‍💻 About Me</h2>
 <p>
-  🔭 I’m currently working on a web-based system for managing road use permits for the Department of Transportation in the Sangihe Islands.<br>
-  🌱 I’m always learning new things, from web development technologies to playing the guitar.<br>
-  🎓 I will be graduating in September and I’m excited to start my journey in the tech industry.<br>
+  🔭 I’m currently working as a freelance web developer, focusing on creating innovative web solutions.<br>
+  🌱 I’m always learning new things, from web development technologies to optimizing web performance.<br>
   🎯 My goals for this year include starting my own startup.
 </p>
 
@@ -37,15 +36,6 @@
 
 <hr>
 
-<h2 align="center">📫 Get in Touch</h2>
-<p align="center">
-  <strong>Email:</strong> <a href="mailto:f.barahama01@gmail.com">f.barahama01@gmail.com</a><br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/febryan-barahama-ab908527a/">Febryan Barahama</a><br>
-  <strong>Instagram:</strong> <a href="https://www.instagram.com/febryanbarahama/">@febryanbarahama</a>
-</p>
-
-<hr>
-
 <h2 align="center">📈 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kocpiepait&show_icons=true&theme=radical" alt="Bryann's GitHub stats" style="width: 52%;" >
@@ -61,6 +51,16 @@
 </p>
 
 <hr>
+
+<h2 align="center">📫 Get in Touch</h2>
+<p align="center">
+  <a href="mailto:f.barahama01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/febryan-barahama-ab908527a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/febryanbarahama/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+<hr>
+
 
 <p align="center">
   Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate.<br>
