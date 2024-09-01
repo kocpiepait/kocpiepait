@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
-<p align="center">Hi there, I'm Febryan Barahama! I'm a freelance web developer living in Sangihe Island. I work in the IT field, specifically focusing on web-based system development. Here’s a bit about me and my work:</p>
+<p align="center">Hi there, I'm Febryan Barahama! I'm a junior web enginier living in Sangihe Island. I work in the IT field, specifically focusing on web-based system development. Here’s a bit about me and my work:</p>
 
 <hr>
 
